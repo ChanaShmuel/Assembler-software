@@ -1,0 +1,11 @@
+
+Checking file test4.as
+the memory lable
+label:LOOP	address:105	kind:1
+label:MAIN	address:100	kind:1
+
+Second translate
+Error in line 3: label END is not found.
+
+
+**** Total Errors 1 in Second over.
